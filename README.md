@@ -1,4 +1,4 @@
-### Kirill · IT turnkey
+### Kirill · Automation & Infrastructure Engineer
 
 16+ years in IT. I build IT projects end to end: bots, AI pipelines, web apps, and the servers they run on.
 
